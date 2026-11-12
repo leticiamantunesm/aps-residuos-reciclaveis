@@ -1,0 +1,146 @@
+[
+  {
+    "path": "data\\raw\\pet\\synth_pet_00.png",
+    "label": "PET"
+  },
+  {
+    "path": "data\\raw\\pet\\synth_pet_01.png",
+    "label": "PET"
+  },
+  {
+    "path": "data\\raw\\pet\\synth_pet_02.png",
+    "label": "PET"
+  },
+  {
+    "path": "data\\raw\\pet\\synth_pet_03.png",
+    "label": "PET"
+  },
+  {
+    "path": "data\\raw\\pet\\synth_pet_04.png",
+    "label": "PET"
+  },
+  {
+    "path": "data\\raw\\pet\\synth_pet_05.png",
+    "label": "PET"
+  },
+  {
+    "path": "data\\raw\\pet\\synth_pet_06.png",
+    "label": "PET"
+  },
+  {
+    "path": "data\\raw\\pet\\synth_pet_07.png",
+    "label": "PET"
+  },
+  {
+    "path": "data\\raw\\pet\\synth_pet_08.png",
+    "label": "PET"
+  },
+  {
+    "path": "data\\raw\\pet\\synth_pet_09.png",
+    "label": "PET"
+  },
+  {
+    "path": "data\\raw\\pet\\synth_pet_10.png",
+    "label": "PET"
+  },
+  {
+    "path": "data\\raw\\pet\\synth_pet_11.png",
+    "label": "PET"
+  },
+  {
+    "path": "data\\raw\\lata\\synth_lata_00.png",
+    "label": "Lata"
+  },
+  {
+    "path": "data\\raw\\lata\\synth_lata_01.png",
+    "label": "Lata"
+  },
+  {
+    "path": "data\\raw\\lata\\synth_lata_02.png",
+    "label": "Lata"
+  },
+  {
+    "path": "data\\raw\\lata\\synth_lata_03.png",
+    "label": "Lata"
+  },
+  {
+    "path": "data\\raw\\lata\\synth_lata_04.png",
+    "label": "Lata"
+  },
+  {
+    "path": "data\\raw\\lata\\synth_lata_05.png",
+    "label": "Lata"
+  },
+  {
+    "path": "data\\raw\\lata\\synth_lata_06.png",
+    "label": "Lata"
+  },
+  {
+    "path": "data\\raw\\lata\\synth_lata_07.png",
+    "label": "Lata"
+  },
+  {
+    "path": "data\\raw\\lata\\synth_lata_08.png",
+    "label": "Lata"
+  },
+  {
+    "path": "data\\raw\\lata\\synth_lata_09.png",
+    "label": "Lata"
+  },
+  {
+    "path": "data\\raw\\lata\\synth_lata_10.png",
+    "label": "Lata"
+  },
+  {
+    "path": "data\\raw\\lata\\synth_lata_11.png",
+    "label": "Lata"
+  },
+  {
+    "path": "data\\raw\\papelao\\synth_papelao_00.png",
+    "label": "Papelao"
+  },
+  {
+    "path": "data\\raw\\papelao\\synth_papelao_01.png",
+    "label": "Papelao"
+  },
+  {
+    "path": "data\\raw\\papelao\\synth_papelao_02.png",
+    "label": "Papelao"
+  },
+  {
+    "path": "data\\raw\\papelao\\synth_papelao_03.png",
+    "label": "Papelao"
+  },
+  {
+    "path": "data\\raw\\papelao\\synth_papelao_04.png",
+    "label": "Papelao"
+  },
+  {
+    "path": "data\\raw\\papelao\\synth_papelao_05.png",
+    "label": "Papelao"
+  },
+  {
+    "path": "data\\raw\\papelao\\synth_papelao_06.png",
+    "label": "Papelao"
+  },
+  {
+    "path": "data\\raw\\papelao\\synth_papelao_07.png",
+    "label": "Papelao"
+  },
+  {
+    "path": "data\\raw\\papelao\\synth_papelao_08.png",
+    "label": "Papelao"
+  },
+  {
+    "path": "data\\raw\\papelao\\synth_papelao_09.png",
+    "label": "Papelao"
+  },
+  {
+    "path": "data\\raw\\papelao\\synth_papelao_10.png",
+    "label": "Papelao"
+  },
+  {
+    "path": "data\\raw\\papelao\\synth_papelao_11.png",
+    "label": "Papelao"
+  }
+]

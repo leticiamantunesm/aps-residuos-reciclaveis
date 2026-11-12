@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+.venv/
+venv/
+.env
+
+# IDEs / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Data & outputs (keep structure, ignore heavy binaries)
+data/raw/**/*.{jpg,jpeg,png,bmp,tif,tiff,webp}
+!data/raw/**/.gitkeep
+data/processed/**
+!data/processed/.gitkeep
+data/results/**
+!data/results/.gitkeep
+
+# Streamlit / notebooks
+.streamlit/secrets.toml
+notebooks/.ipynb_checkpoints/
+
+# Local docs exports
+*.pdf
+~$*
